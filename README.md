@@ -1,0 +1,2 @@
+# premium-voicing-reed-001-reed-voicing-volume-balance-ac
+Struggling to achieve consistent volume across all registers when voicing reeds? Your high notes scream while the low end fades — this log pinpoints exactly where your voicing is unbalanced.  The Reed Voicing Volume Balance Across Registers Log transforms your voicing workflow by providing a structured, repeatable system to track and adjust volume
